@@ -1,9 +1,14 @@
-<h2 align="center"> W�ṃ�뢌f�),�u21�u����y��{�z�_:�%�� )�!��e�	 </h2>
+<h2 align="center"> Хотелось бы верить, но верится с трудом </h2>
 
 > `CFLAGS="-O3 -march=native -funroll-loops -fomg-optimize -pipe -fno-plt"`
 
-### 
-"Хотелось бы верить, но верится с трудом"
+### Sortong algorithms comparison
+
+|              | Quicksort     | Selection sort                     |
+| ------------ | ------------- | ---------------------------------- |
+| Worst-case   | $O(n^2)$      | $O(n^2)$ comparisons, $O(n)$ swaps |
+| Best-case    | $O(n\log{n})$ | $O(n^2)$ comparisons, $O(1)$ swap  |
+| Average-case | $O(n\log{n})$ | $O(n^2)$ comparisons, $O(n)$ swaps |
 
 ### MIT License
 
