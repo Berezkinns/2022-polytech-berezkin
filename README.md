@@ -1,7 +1,5 @@
 <h2 align="center"> Хотелось бы верить, но верится с трудом </h2>
 
-> `CFLAGS="-O3 -march=native -funroll-loops -fomg-optimize -pipe -fno-plt"`
-
 ### Sortong algorithms comparison
 
 |              | Quicksort     | Selection sort                     |
