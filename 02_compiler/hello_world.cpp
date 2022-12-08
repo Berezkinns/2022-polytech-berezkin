@@ -1,8 +1,7 @@
-#include <stdio.h>
+#include "func.h"
 
-int main()
-{
-    printf("Hello World");
+int main() {
+  print();
 
-    return 0;
+  return 0;
 }
